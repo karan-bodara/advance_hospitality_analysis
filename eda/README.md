@@ -99,7 +99,7 @@ The exploratory analysis of the hospitality dataset revealed critical business p
   
 - **🏙️ City level Analysis**  
 Mumbai outperforms all other cities in **total room revenue**, indicating it as the top-performing city in terms of hospitality demand.
----
+----
 # 🧾 Conclusion
 
 This project shows how raw booking and property data can be transformed into meaningful insights for the hospitality industry. It highlights seasonal trends, platform usage, and customer behavior that can inform pricing strategies, inventory management, and marketing focus.
