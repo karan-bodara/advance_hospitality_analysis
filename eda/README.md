@@ -103,3 +103,9 @@ Mumbai outperforms all other cities in **total room revenue**, indicating it as 
 # 🧾 Conclusion
 
 This project shows how raw booking and property data can be transformed into meaningful insights for the hospitality industry. It highlights seasonal trends, platform usage, and customer behavior that can inform pricing strategies, inventory management, and marketing focus.
+
+---
+# 🌟 About Me
+As a data enthusiast, I specialize in building efficient data systems, uncovering insights, and solving business problems through data-driven solutions. I’m committed to delivering high-quality, reliable results that add real value to your projects.
+
+Lets connect : [LinkedIn](https://www.linkedin.com/in/karan-bodara-8684562b4/)
