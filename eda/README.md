@@ -3,13 +3,6 @@
 This project involves end-to-end data preprocessing and exploratory data analysis (EDA) on a hospitality dataset. By merging and cleaning five raw data tables, we build a unified dataset to uncover trends in bookings, customer behavior, room preferences, and revenue performance
 
 ---
-1.preprocesng
-2.what in preprpsng
-3.eda kayru 
-4.kai library use kari
-5.su goytu
-6.insights
-7.conclusion
 
 # 📌 Problem Statement
 - AtliQ Grands is a five-star hotel chain in India operating for 20+ years.
