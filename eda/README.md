@@ -32,13 +32,13 @@ The raw data was distributed across five tables:
 ✅ Goals
 - Load and understand individual datasets
 - Clean missing and inconsistent values
-- Merge datasets into one structured DataFrame (`hotel_dataset.csv`) for EDA
+- Merge fact and dim tables accordingly 
 
 📦 Key Preprocessing Steps
 - Converted date columns to proper datetime format
 - Removed duplicates and handled null values
-- Merged all datasets using common keys (`date`, `room_id`, etc.)
-- Generated a master dataset
+- Merged  datasets using common keys (`date`, `room_id`, etc.)
+- Generated a dataset with relation
 
 ---
 # 🛠️ Libraries Used
